@@ -41,5 +41,13 @@ date_format = "January 2006"
   date_start = "2016-01-08"
   date_end = "2018-08-08"
   description = """See CV"""
-
+[[experience]]
+  title = "KC-130J Crew Master NATOPS Instructor"
+  company = "United States Marine Corps"
+  location = "Eastern NC"
+  date_start = "2002-01-01"
+  date_end = "2014-01-01"
+  description = """Served as Training SNCOIC for Crew Master Section"""
+ 
+  
 +++
