@@ -78,6 +78,8 @@ user_groups = ["Researchers", "Visitors"]
 
 +++
 
-Nelson Bighetti is a goof of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+I am a researcher, aviator, father, husband, and one who easily gets lost in figuring out just about anything.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate. 
+My research focuses on writing self-efficacy and feedback, emotional reactivity, working memory, and various other musings such as creativity and intelligence in the student population.  I am also deeply interested in unique quantitative methods, mixtures models, measurement design, and longitudinal growth.  I am currently pursuing a Ph.D. in Educational Psychology from Virginia Commonwealth University under the advisement of Sharon Zumbrunn.
+
+I am currently employed as an educational researcher at a large school division in Virginia. I mainly wrangle data (#rstats), provide predictive analytics to optimize student success, and manage our data-warehouse that provides practitioners with vital data analytics to enable them to make data informed dicisions. 
