@@ -1,6 +1,6 @@
 +++
 # Display name
-name = "Nelson Bighetti"
+name = "Morgan L. DeBusk-Lane"
 
 # Username (this should match the folder name)
 authors = ["admin"]
@@ -9,23 +9,24 @@ authors = ["admin"]
 superuser = true
 
 # Role/position
-role = "Professor of Artificial Intelligence"
+role = "Educational Researcher"
 
 # Organizations/Affiliations
 #   Separate multiple entries with a comma, using the form: `[ {name="Org1", url=""}, {name="Org2", url=""} ]`.
-organizations = [ { name = "Stanford University", url = "" } ]
+organizations = [ { name = "Chesterfield County Public School", url = "http://mychesterfieldschools.com" } ]
 
 # Short bio (displayed in user profile at end of posts)
-bio = "My research interests include distributed robotics, mobile computing and programmable matter."
+bio = "My research interests include student motivation, psychometrics, and latent profile analyses."
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
-email = ""
+email = "mldebusklane@gmail.com"
 
 # List (academic) interests or hobbies
 interests = [
-  "Artificial Intelligence",
-  "Computational Linguistics",
-  "Information Retrieval"
+  "Student Motivation",
+  "Statistical Predictive Modeling",
+  "Latent Profile Analysis",
+  "Psychometrics"
 ]
 
 # Organizational groups that you belong to (for People widget)
@@ -34,19 +35,14 @@ user_groups = ["Researchers", "Visitors"]
 
 # List qualifications (such as academic degrees)
 [[education.courses]]
-  course = "PhD in Artificial Intelligence"
-  institution = "Stanford University"
-  year = 2012
+  course = "PhD in Education"
+  institution = "Virginia Commonwealth University"
+  year = 2019 (May)
 
 [[education.courses]]
-  course = "MEng in Artificial Intelligence"
-  institution = "Massachusetts Institute of Technology"
-  year = 2009
-
-[[education.courses]]
-  course = "BSc in Artificial Intelligence"
-  institution = "Massachusetts Institute of Technology"
-  year = 2008
+  course = "BSc in Psychology"
+  institution = "Pennsylvania State University"
+  year = 2016
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/widgets/#icons
