@@ -8,7 +8,7 @@
 title = "M. L. DeBusk-Lane"
 
 #Avatar
-avatar = Picture.jpg
+avatar = "Picture.jpg"
 
 # The URL of your site.
 # End your URL with a `/` trailing slash, e.g. `https://example.com/`.
