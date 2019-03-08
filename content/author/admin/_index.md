@@ -52,12 +52,12 @@ user_groups = ["Researchers", "Visitors"]
 [[social]]
   icon = "envelope"
   icon_pack = "fas"
-  link = "#contact"  # For a direct email link, use "mailto:test@example.org".
+  link = "#contact"  # For a direct email link, use "mailto:mldebusklane@gmail.com".
 
 [[social]]
   icon = "twitter"
   icon_pack = "fab"
-  link = "https://twitter.com/GeorgeCushen"
+  link = "https://twitter.com/mldebusklane"
 
 [[social]]
   icon = "google-scholar"
