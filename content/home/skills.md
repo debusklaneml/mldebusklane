@@ -28,7 +28,7 @@ weight = 30
   description = "100%"  
   
 [[feature]]
-  icon = "Search"
+  icon = "search"
   icon_pack = "fas"
   name = "Educational Research"
   description = "100%"
