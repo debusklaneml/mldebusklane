@@ -13,7 +13,7 @@ role = "Educational Researcher"
 
 # Organizations/Affiliations
 #   Separate multiple entries with a comma, using the form: `[ {name="Org1", url=""}, {name="Org2", url=""} ]`.
-organizations = [ { name = "Chesterfield County Public School", url = "http://mychesterfieldschools.com" } ]
+organizations = [ { name = "Chesterfield County Public Schools", url = "http://mychesterfieldschools.com" } ]
 
 # Short bio (displayed in user profile at end of posts)
 bio = "My research interests include student motivation, psychometrics, and latent profile analyses."
