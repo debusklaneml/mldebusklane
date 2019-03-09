@@ -37,7 +37,7 @@ user_groups = ["Researchers", "Visitors"]
 [[education.courses]]
   course = "PhD in Education (May, 2019 finish)"
   institution = "Virginia Commonwealth University"
-  year = 2019 
+  #year = 2019 
 
 [[education.courses]]
   course = "BSc in Psychology"
