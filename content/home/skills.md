@@ -19,18 +19,18 @@ weight = 30
   icon = "r-project"
   icon_pack = "fab"
   name = "R"
-  description = "90%"
+  #description = "90%"
   
 [[feature]]
   icon = "chart-line"
   icon_pack = "fas"
   name = "Predictive Analytics"
-  description = "100%"  
+  #description = "100%"  
   
 [[feature]]
   icon = "search"
   icon_pack = "fas"
   name = "Educational Research"
-  description = "100%"
+  #description = "100%"
 
 +++
