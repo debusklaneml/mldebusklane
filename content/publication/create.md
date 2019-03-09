@@ -1,6 +1,6 @@
 +++
 title = "Implicit Theories, Working Memory, and Cognitive Load: Impacts on Creative Thinking"
-date = 2018-08-04T00:00:00
+date = 2019-03-01T00:00:00
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
 authors = ["Jenni Redifer", "Christine Bae", "Morgan DeBusk-Lane"]
@@ -21,7 +21,8 @@ publication = "In *SAGE Open*"
 #publication_short = "In *PB&R*"
 
 # Abstract and optional shortened version.
-abstract = "Using a person-centered approach, this study examined science motivation belief (achievement goals and self- efficacy) profiles among middle school students (N = 1443). Three profiles were identified across grades: con- fidently mastery, high all, and low confidence/low mastery. For grades 6 (n = 520) and 7 (n = 307), a fourth profile, indifferent, and for grade 8 (n = 613), two new profiles, low all and performance-driven, were identified at the end of the school year. Results from latent transition analyses showed relatively stable profile membership; 42–89% of students remained in the same profile between time points. Classroom goal structures predicted profile membership and were aligned to students' personal goal endorsements. Evidence was also found for the asso- ciation between profile and science achievement. Confidently mastery students demonstrated the highest science achievement, whereas performance was lower for all other profiles, with low confidence/low mastery students generally demonstrating the lowest science achievement."
+abstract = "Creative thinking shares many characteristics with traditional complex tasks. We investigated whether implicit theories of creativity would affect creative thinking in a way similar to the impact of implicit theories of intelligence on academic tasks. We altered participants’ theories of creativity to be either more incremental or more entity-like. We also examined the impact of working memory (WM) and cognitive load on creative thinking. Cognitive load fully mediated the relationship between implicit theories and creative thinking, with more incremental beliefs linked to lower cognitive load. In addition, cognitive load partially mediated the relationship between WM and creative thinking. Our results support prior research showing that creative thinking draws on cognitive mechanisms similar to those utilized by other complex tasks, but the impact of implicit theories on creative thinking differs from their effect on traditional academic tasks.
+"
 #abstract_short = "A mobile visual clothing search system is presented..."
 
 # Featured image thumbnail (optional)
@@ -36,7 +37,7 @@ selected = false
 #projects = ["example-external-project"]
 
 # Links (optional).
-url_pdf = "files/clb.mld.2018.pdf"
+url_pdf = "files/create.pdf"
 url_preprint = ""
 url_code = ""
 url_dataset = ""
