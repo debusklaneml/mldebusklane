@@ -1,6 +1,6 @@
 +++
 title = "Student Experiences With Writing: Taking the Temperature of the Classroom"
-date = 2017-09-17T00:00:00
+date = 2017-06-01T00:00:00
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
 authors = ["Sharon Zumbrunn", "Eric Ekholm", "J.K. Stringer", "Kimberly McKnight", "Morgan DeBusk-Lane"]
