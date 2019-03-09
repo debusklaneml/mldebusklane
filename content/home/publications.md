@@ -8,7 +8,7 @@ weight = 90  # Order that this section will appear.
 
 title = "Publications"
 subtitle = ""
-
+weight = 30
 [content]
   # Page type to display. E.g. post, talk, or publication.
   page_type = "publication"
