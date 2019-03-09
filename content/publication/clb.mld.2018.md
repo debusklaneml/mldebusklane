@@ -64,4 +64,4 @@ highlight = true
 
 +++
 
-#**Featured** in [Psychonomic Society](https://featuredcontent.psychonomic.org/fortifying-memory-after-encoding-internal-and-#external-attention-and-visual-short-term-memory/): Fortifying memory after encoding: Internal and external attention and #visual short-term memory
+
