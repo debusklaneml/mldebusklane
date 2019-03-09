@@ -1,5 +1,5 @@
 +++
-title = "Motivation belief profiles in science: Links to classroom goal structures and T achievement"
+title = "Motivation belief profiles in science: Links to classroom goal structures and achievement"
 date = 2016-04-17T00:00:00
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
@@ -64,4 +64,4 @@ caption = "My caption :smile:"
 
 +++
 
-#**Featured** in [Psychonomic Society](https://featuredcontent.psychonomic.org/fortifying-memory-after-encoding-internal-and-external-attention-and-visual-short-term-memory/): Fortifying memory after encoding: Internal and external attention and visual short-term memory
+#**Featured** in [Psychonomic Society](https://featuredcontent.psychonomic.org/fortifying-memory-after-encoding-internal-and-#external-attention-and-visual-short-term-memory/): Fortifying memory after encoding: Internal and external attention and #visual short-term memory
