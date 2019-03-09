@@ -36,7 +36,7 @@ selected = false
 #projects = ["example-external-project"]
 
 # Links (optional).
-url_pdf = "files/clb.mld.2018.pdf"
+url_pdf = "files/ee.sz.mld.2017.pdf"
 url_preprint = ""
 url_code = ""
 url_dataset = ""
