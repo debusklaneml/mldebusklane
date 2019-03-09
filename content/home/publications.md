@@ -6,7 +6,7 @@ widget = "pages"  # Do not modify this line!
 active = true  # Activate this widget? true/false
 weight = 30  # Order that this section will appear.
 
-title = "Publicationsaa"
+title = "Recent Publications"
 subtitle = ""
 
 [content]
@@ -35,7 +35,7 @@ subtitle = ""
   #   2 = Compact
   #   3 = Card
   #   4 = Citation (publication only)
-  view = 2
+  view = 4
   
 [design.background]
   # Apply a background color, gradient, or image.
