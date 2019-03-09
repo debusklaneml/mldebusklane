@@ -21,7 +21,7 @@ publication = "In *The Reading Teacher*"
 #publication_short = "In *PB&R*"
 
 # Abstract and optional shortened version.
-abstract = "Although research recognizes that student attitudes toward writing have the poten- tial to influence a variety of writing outcomes, there is no consensus as to what writing attitude signifies. Further, disparities between conceptualizations of writing attitude make the extant literature difficult to reconcile. In the present study, we systematically review writing attitude research published between 1990 and 2017. Our search procedure and quality analysis led to the retention of 46 articles examining the writing attitudes of students and teachers. Relatively few studies (n = 10) provided an explicit definition of writing attitudes. Further, although the authors of many studies (n = 16) conceptualized writing attitude as including a measure of liking/disliking writing, there was considerable variability in both conceptualization and operationalization throughout the literature, with some studies including measures of self- efficacy, perceived value, and other related constructs. Student writing attitudes were measured in a majority of the included studies (n = 33), and teacher writing attitudes were measured in substantially fewer studies (n = 6). Based on the findings of this review, we offer suggestions for researchers making inferences from studies of writing attitudes. Themes of the reviewed literature and implications for future research are also discussed."
+abstract = "Students’ literacy experiences and beliefs can have profound effects on their motivation, engagement, and learning. The authors explore tools that teachers can use to better understand students’ writing experiences and beliefs."
 #abstract_short = "A mobile visual clothing search system is presented..."
 
 # Featured image thumbnail (optional)
@@ -36,7 +36,7 @@ selected = false
 #projects = ["example-external-project"]
 
 # Links (optional).
-url_pdf = "files/ee.sz.mld.2017.pdf"
+url_pdf = "files/picasso.pdf"
 url_preprint = ""
 url_code = ""
 url_dataset = ""
