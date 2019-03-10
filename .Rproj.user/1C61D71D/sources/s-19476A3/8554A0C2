@@ -5,14 +5,14 @@
     "dirty" : false,
     "encoding" : "UTF-8",
     "folds" : "",
-    "hash" : "0",
+    "hash" : "3791142114",
     "id" : "8554A0C2",
-    "lastKnownWriteTime" : 1552247724,
-    "last_content_update" : 1552247724897,
+    "lastKnownWriteTime" : 1552248217,
+    "last_content_update" : 1552248217073,
     "path" : "~/Documents/GitHub/mldebusklane/config/_default/menus.toml",
     "project_path" : "config/_default/menus.toml",
     "properties" : {
-        "cursorPosition" : "0,8",
+        "cursorPosition" : "18,2",
         "scrollLine" : "0"
     },
     "relative_order" : 1,
