@@ -1,9 +1,9 @@
 +++
-title = "Opportunities to Participate (OtP) in Science: Examining Differences Longitudinally and Across Socioeconomically Diverse Schools"
+title = "tests"
 date = 2018-12-01T00:00:00
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
-authors = ["Christine Bae", "Morgan DeBusk-Lane", "Kathryn Hayes", "Fa Zhang"]
+authors = ["Morgan DeBusk-Lane"]
 
 # Publication type.
 # Legend:
@@ -17,11 +17,11 @@ authors = ["Christine Bae", "Morgan DeBusk-Lane", "Kathryn Hayes", "Fa Zhang"]
 publication_types = ["2"]
 
 # Publication name and optional abbreviated version.
-publication = "In *Research in Science Eduation*"
+#publication = "In *Research in Science Eduation*"
 #publication_short = "In *PB&R*"
 
 # Abstract and optional shortened version.
-abstract = "The purpose of this study was to develop and validate a survey of opportunities to participate (OtP) in science that will allow educators and researchers to closely approximate the types of learning opportunities students have in science classrooms. Additionally, we examined whether and how opportunity gaps in science learning may exist across schools with different socio- economic levels. The OtP in science survey consists of four dimensions that include acquiring foundational knowledge, planning an investigation, conducting an investigation, and using evidence to communicate findings. A total of 1214 middle school students across 8 diverse school districts completed the survey. Tests of reliability, construct validity, measurement invariance, and external validity were conducted using data collected at the beginning and end of the school year. Results showed evidence that the OtP in science survey scores were internally reliable, invariant across school socioeconomic groups across and time points (i.e., lacking systematic biases in responses by group or time point), and externally valid. Given that scores from the survey were reliable and valid indicators of the four dimensions of interest, structural invariance tests were conducted to examine possible differences in OtP in science across schools from high, middle, and low socioeconomic backgrounds. Findings demonstrate specific ways opportunity gaps to learn science manifest in lower income schools. We discuss the implications of these gaps for science instruction, professional development, policy, and diverse students’ interest and achievement in science, and propose several lines of future study."
+abstract = "Abstract goes here"
 #abstract_short = "A mobile visual clothing search system is presented..."
 
 # Featured image thumbnail (optional)
@@ -36,7 +36,7 @@ selected = false
 #projects = ["example-external-project"]
 
 # Links (optional).
-url_pdf = "files/OTP.pdf"
+url_pdf = ""
 url_preprint = ""
 url_code = ""
 url_dataset = ""
