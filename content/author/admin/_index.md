@@ -80,6 +80,6 @@ user_groups = ["Researchers", "Visitors"]
 
 I am a researcher, aviator, father, husband, and one who easily gets lost in figuring out just about anything.
 
-My research focuses on writing self-efficacy and feedback, emotional reactivity, working memory, and various other musings such as creativity and intelligence in the student population.  I am also deeply interested in unique quantitative methods, mixtures models, measurement design, and longitudinal growth.  I am currently pursuing a Ph.D. in Educational Psychology from Virginia Commonwealth University under the advisement of Sharon Zumbrunn.
+My research focuses on writing self-efficacy and feedback, emotional reactivity, working memory, and various other musings such as creativity and intelligence in the student population.  I am also deeply interested in unique quantitative methods, mixtures models, measurement design, and longitudinal growth.  I am currently a doctoral candidate (ABD) in Educational Psychology from Virginia Commonwealth University under the advisement of Sharon Zumbrunn.
 
 I am currently employed as an educational researcher at a large school division in Virginia. I mainly wrangle data (#rstats), provide predictive analytics to optimize student success, and manage our data-warehouse that provides practitioners with vital data analytics to enable them to make data informed dicisions. 
