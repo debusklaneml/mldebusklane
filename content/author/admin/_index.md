@@ -24,7 +24,7 @@ email = "mldebusklane@gmail.com"
 # List (academic) interests or hobbies
 interests = [
   "Student Motivation",
-  "Statistical Predictive Modeling",
+  "ML Predictive Modeling",
   "Latent Profile Analysis",
   "Psychometrics"
 ]
