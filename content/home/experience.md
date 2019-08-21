@@ -19,12 +19,27 @@ date_format = "January 2006"
 #   Leave `date_end` empty if it's your current employer.
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 [[experience]]
+  title = "Coordinator of Research and Evaluation"
+  company = "Chesterfield County Public Schools"
+  company_url = "http://mychesterfieldschools.com"
+  location = "Chesterfield, Va."
+  date_start = "2019-07-15"
+  date_end = ""
+  description = """
+  Responsibilities include:
+  
+  * Statistical Predictive Modeling
+  * Research & Evaluation Management
+  * Data Warehouse Management
+  """
+  
+[[experience]]
   title = "Data Specialist"
   company = "Chesterfield County Public Schools"
   company_url = "http://mychesterfieldschools.com"
   location = "Chesterfield, Va."
   date_start = "2018-09-10"
-  date_end = ""
+  date_end = "2019-07-15"
   description = """
   Responsibilities include:
   
