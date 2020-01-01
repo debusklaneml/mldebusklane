@@ -1,6 +1,6 @@
 +++
 # Display name
-name = "Morgan L. DeBusk-Lane, Ph.D."
+name = "M. L. DeBusk-Lane, Ph.D."
 
 # Username (this should match the folder name)
 authors = ["admin"]
@@ -9,11 +9,11 @@ authors = ["admin"]
 superuser = true
 
 # Role/position
-role = "Educational Researcher"
+role = "Educational Data Scientist"
 
 # Organizations/Affiliations
 #   Separate multiple entries with a comma, using the form: `[ {name="Org1", url=""}, {name="Org2", url=""} ]`.
-#organizations = [ { name = "Chesterfield County Public Schools", url = "http://mychesterfieldschools.com" } ]
+# organizations = [ { name = "Chesterfield County Public Schools", url = "http://mychesterfieldschools.com" } ]
 
 # Short bio (displayed in user profile at end of posts)
 bio = "My research interests include student motivation, psychometrics, and latent profile analyses."
@@ -26,7 +26,7 @@ interests = [
   "Student Motivation",
   "ML Predictive Modeling",
   "Latent Profile Analysis",
-  "Psychometrics"
+  "Machine Learning"
 ]
 
 # Organizational groups that you belong to (for People widget)
@@ -58,6 +58,11 @@ user_groups = ["Researchers", "Visitors"]
   icon = "twitter"
   icon_pack = "fab"
   link = "https://twitter.com/mldebusklane"
+  
+[[social]]
+  icon = "linkedin"
+  icon_pack = "fab"
+  link = "www.linkedin.com/in/debusklaneml"
 
 [[social]]
   icon = "google-scholar"
@@ -82,4 +87,4 @@ I am a researcher, aviator, father, husband, and one who easily gets lost in fig
 
 My research focuses on writing self-efficacy and feedback, emotional reactivity, working memory, and various other musings such as creativity and intelligence in the student population. I am also deeply interested in unique quantitative methods, mixtures models, measurement design, machine learning, and longitudinal growth. 
 
-I am currently employed as an educational researcher at a large school division in Virginia. I mainly wrangle data (#rstats), provide predictive analytics to optimize student success, and manage our data-warehouse that provides practitioners with vital data analytics to enable them to make data informed decisions. 
+I am currently employed as an educational researcher at a large school division in Virginia. I mainly wrangle data (#rstats), provide predictive analytics to optimize student success with unique groupings and machine learning, and help manage our data-warehouse that provides practitioners with vital data analytics to enable them to make data informed decisions. 
