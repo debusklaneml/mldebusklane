@@ -3,10 +3,10 @@
 # This section displays recent blog posts from `content/post/`.
 
 widget = "pages"  # Do not modify this line!
-active = false  # Activate this widget? true/false
+active = true  # Activate this widget? true/false
 weight = 60  # Order that this section will appear.
 
-title = "Recent Blogs & Code"
+title = "Recent Posts"
 subtitle = ""
 
 [content]
