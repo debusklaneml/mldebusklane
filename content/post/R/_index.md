@@ -1,6 +1,6 @@
 ---
 header:
-  caption: ""
+  caption: "" 
 
 title: Posts
 view: 3
