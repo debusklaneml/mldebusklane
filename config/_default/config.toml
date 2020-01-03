@@ -16,7 +16,7 @@ baseurl = "https://www.mldebusklane.com/"
 
 # Enter a copyright notice to display in the site footer.
 # To display a copyright symbol, type `&copy;`.
-copyright = "&copy; 2019 MLDeBusk-Lane"
+copyright = "&copy; 2020 MLDeBusk-Lane"
 
 # Enable analytics by entering your Google Analytics tracking ID
 googleAnalytics = ""
